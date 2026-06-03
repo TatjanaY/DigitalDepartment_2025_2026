@@ -33,7 +33,7 @@
 ## Входные данные
 
 Используемый датасет: **IMDb Movies Dataset (updated daily)**  
-[https://www.kaggle.com/datasets/ashirwadsangwan/imdb-dataset](https://www.kaggle.com/datasets/ashirwadsangwan/imdb-dataset)
+[https://www.kaggle.com/code/aditimulye/imdb-5000-movie-dataset-analysis](https://www.kaggle.com/code/aditimulye/imdb-5000-movie-dataset-analysis)
 
 Датасет содержит информацию о фильмах:
 
